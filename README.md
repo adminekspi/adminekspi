@@ -1,8 +1,9 @@
 # Admin İşte :)
 
-<img src="https://github.com/user-attachments/assets/ba2d16d2-a539-406a-8c9e-c20232e2fe7d" alt="XP Duvar Kâğıdı (!)" width="640px" height="480px" />
+<img src="https://github.com/user-attachments/assets/ba2d16d2-a539-406a-8c9e-c20232e2fe7d" alt="XP Duvar Kâğıdı (!)" width="320px" height="240px" />
+<img src="https://github.com/user-attachments/assets/786b43b1-6e37-4acb-9755-3a10830c2017" alt="90'ların PC'si" width="420px" height="240px" />
 
-## Telif
+## Telif Hakkı
 Profil resmimi ve buradaki manzara resmini ChatGPT ile oluşturdum. Almak, çalmak, değiştirmek serbesttir. :)
 
-İletişim / Contact: [eersoy93](https://github.com/eersoy93)
+İletişim: [eersoy93](https://github.com/eersoy93)
