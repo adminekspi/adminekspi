@@ -6,4 +6,5 @@
 ## Telif Hakkı
 Profil resmimi ve buradaki resimleri ChatGPT ile oluşturdum. Almak, çalmak, değiştirmek serbesttir. :)
 
-İletişim: [eersoy93](https://github.com/eersoy93)
+![İletişim: eersoy93](https://img.shields.io/badge/İletişim-eersoy93-blue)
+![Web Sitesi: erdemersoy.net.tr](https://img.shields.io/badge/Web_Sitesi-erdemersoy.net.tr-blue)
