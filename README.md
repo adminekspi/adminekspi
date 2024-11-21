@@ -4,6 +4,6 @@
 <img src="https://github.com/user-attachments/assets/786b43b1-6e37-4acb-9755-3a10830c2017" alt="90'ların PC'si" width="420px" height="240px" />
 
 ## Telif Hakkı
-Profil resmimi ve buradaki manzara resmini ChatGPT ile oluşturdum. Almak, çalmak, değiştirmek serbesttir. :)
+Profil resmimi ve buradaki resimleri ChatGPT ile oluşturdum. Almak, çalmak, değiştirmek serbesttir. :)
 
 İletişim: [eersoy93](https://github.com/eersoy93)
